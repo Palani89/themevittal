@@ -1,2 +1,2 @@
-# themevittal
-theme vittal
+sass scss/app.scss css/styles.css --watch
+
